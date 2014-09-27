@@ -1,10 +1,12 @@
 Java FTP Client
 ===============
 
-AUTHOR: Eric W. Sarjeant <eric@sarjeant.com>
+AUTHOR: Eric W. Sarjeant <eric@sarjeant.com>  
 DATE:   November 2003
 
 
+Introduction
+------------
 This is an implementation of a primitive FTP client described in
 RFC 959:
 
@@ -25,5 +27,14 @@ any newer contact info.
 The latest version of this can also be downloaded from my
 homepage.
 
+Using with Maven
+----------------
+If you are looking to quickly integrate this with a maven build:
 
-- EWS (11/20/2003)
+>  &lt;dependency&gt;  
+>    &nbsp;&nbsp;&lt;groupId>org.sarjeant</groupId&gt;  
+>    &nbsp;&nbsp;&lt;artifactId>jftp</artifactId&gt;  
+>    &nbsp;&nbsp;&lt;version>1.1-SNAPSHOT</version&gt;  
+>    &nbsp;&nbsp;&lt;scope>compile</scope&gt;  
+>  &lt;/dependency&gt;  
+
