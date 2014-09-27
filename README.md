@@ -31,10 +31,12 @@ Using with Maven
 ----------------
 If you are looking to quickly integrate this with a maven build:
 
->  &lt;dependency&gt;  
->    &nbsp;&nbsp;&lt;groupId>org.sarjeant</groupId&gt;  
->    &nbsp;&nbsp;&lt;artifactId>jftp</artifactId&gt;  
->    &nbsp;&nbsp;&lt;version>1.1-SNAPSHOT</version&gt;  
->    &nbsp;&nbsp;&lt;scope>compile</scope&gt;  
->  &lt;/dependency&gt;  
+<pre>  &lt;dependency&gt;  
+    &nbsp;&nbsp;&lt;groupId>org.sarjeant&lt;/groupId&gt;   
+    &nbsp;&nbsp;&lt;artifactId>jftp&lt;/artifactId&gt;   
+    &nbsp;&nbsp;&lt;version>1.1-SNAPSHOT&lt;/version&gt;   
+    &nbsp;&nbsp;&lt;scope>compile&lt;/scope&gt;   
+  &lt;/dependency&gt;</pre>
+    
+    
 
