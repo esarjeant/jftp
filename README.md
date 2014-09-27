@@ -38,5 +38,6 @@ If you are looking to quickly integrate this with a maven build:
     &nbsp;&nbsp;&lt;scope>compile&lt;/scope&gt;   
   &lt;/dependency&gt;</pre>
     
-    
-
+This project is not currently hosted on a central repo; therefore it
+will be necessary to build and install locally or configure on your
+own repo.
